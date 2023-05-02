@@ -10,5 +10,5 @@ Este es el Portafolio de Segundo Parcial, en lo cuál contiene las practicas rea
 
 
 4) Modelos de regresion lineal desde streamlits y colab google
-![Overiew](https://github.com/RosyBacelis/PortafolioRosy/blob/main/Iris_Rosy.ipynb)
+
 https://github.com/RosyBacelis/PortafolioRosy/blob/main/Iris_Rosy.ipynb
