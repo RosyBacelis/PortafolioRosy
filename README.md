@@ -1,6 +1,7 @@
 # PortafolioRosy
 Este es el Portafolio de Segundo Parcial, en lo cuál contiene las practicas realizadas durante las clases de este Semestre
 1) Modelo generrado en Azure ML Studio
+![Overiew](https://github.com/RosyBacelis/PortafolioRosy/blob/main/Azure%201.png)
 
 
 
