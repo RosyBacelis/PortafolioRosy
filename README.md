@@ -5,6 +5,11 @@ Este es el Portafolio de Segundo Parcial, en lo cuál contiene las practicas rea
 ![Overiew](https://github.com/RosyBacelis/PortafolioRosy/blob/main/azure2.png)
 ![Overiew](https://github.com/RosyBacelis/PortafolioRosy/blob/main/azure3.png)
 
+2)Mongodb - log commit
+
+
+3) MONGODB
+Practica map reduce
 
 
 
