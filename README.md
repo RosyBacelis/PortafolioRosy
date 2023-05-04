@@ -10,7 +10,7 @@ Este es el Portafolio de Segundo Parcial, en lo cuál contiene las practicas rea
 
 3) MONGODB
 Practica map reduce
-
+![Overiew](https://github.com/RosyBacelis/PortafolioRosy/blob/main/mongoatlas.png)
 
 
 
