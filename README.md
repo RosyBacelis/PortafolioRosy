@@ -6,6 +6,8 @@ Este es el Portafolio de Segundo Parcial, en lo cuál contiene las practicas rea
 ![Overiew](https://github.com/RosyBacelis/PortafolioRosy/blob/main/azure3.png)
 
 2)Mongodb - log commit
+Practica conexion Colab Google a MongoDB
+https://github.com/RosyBacelis/PortafolioRosy/blob/main/PracticaParseoArchivosyConexionMongoDB.ipynb
 
 
 3) MONGODB
